@@ -1,5 +1,24 @@
 {
-  "nombre": "Juan",
-  "edad": 30,
-  "activo": true
+  "sources": [
+    {
+      "idioma": "Subtitulado Descarga 1DM",
+      "url": "https://oneupload.to/embed-r2aqba573sn5"
+    },
+    {
+      "idioma": "Subtitulado Descarga 1DM",
+      "url": "https://streamwish.top/e/gn7tq3l0ik2x"
+    },
+    {
+      "idioma": "Prueba Oka 1DM",
+      "url": "https://ok.ru/video/1321731426889"
+    },
+    {
+      "idioma": "Prueba Oka 2DM",
+      "url": "https://ok.ru/videoembed/1321731426889"
+    },
+    {
+      "idioma": "Prueba Tape",
+      "url": "https://streamtape.com/e/LJvy917KaXSRky3/"
+    }
+  ]
 }
