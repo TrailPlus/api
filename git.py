@@ -27,7 +27,7 @@ os.makedirs(RUTA_DESTINO, exist_ok=True)
 def encriptar_archivo(nombre_archivo, clave):
     cipher = AES.new(clave, AES.MODE_CBC)  # Usamos el modo CBC de AES
     ruta_origen = os.path.join(RUTA_ORIGEN, nombre_archivo)
-    ruta_destino = os.path.join(RUTA_DESTINO, nombre_archivo + ".json")
+    ruta_destino = os.path.join(RUTA_DESTINO, nombre_archivo)  # Mantener la extensión .json
 
     # Leer solo el contenido del archivo (en este caso JSON)
     with open(ruta_origen, "r", encoding="utf-8") as archivo:
@@ -53,23 +53,27 @@ def encriptar_todos():
 
 def git_add_commit_push():
     try:
-        # Agregar todos los archivos encriptados a git
-        subprocess.run(["git", "add", "."], check=True)  # Agregar todos los archivos cambiados en el repo
+        # Solo agregar los archivos dentro de la carpeta de destino (encriptados)
+        archivos_encriptados = [f for f in os.listdir(RUTA_DESTINO) if f.endswith(".json")]
+        if archivos_encriptados:
+            subprocess.run(["git", "add"] + [os.path.join(RUTA_DESTINO, archivo) for archivo in archivos_encriptados], check=True)
 
-        # Verifica si hay algo que realmente se va a commitear
-        resultado = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
-        if not resultado.stdout.strip():
-            print("🟡 No hay cambios nuevos para commitear.")
-            return
+            # Verifica si hay algo que realmente se va a commitear
+            resultado = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
+            if not resultado.stdout.strip():
+                print("🟡 No hay cambios nuevos para commitear.")
+                return
 
-        # Si hay cambios, hace commit y push
-        subprocess.run(["git", "commit", "-m", MENSAJE_COMMIT], check=True)
-        subprocess.run(["git", "push"], check=True)
+            # Si hay cambios, hace commit y push
+            subprocess.run(["git", "commit", "-m", MENSAJE_COMMIT], check=True)
+            subprocess.run(["git", "push"], check=True)
 
-        print("🚀 Archivos encriptados subidos exitosamente a GitHub.")
+            print("🚀 Archivos encriptados subidos exitosamente a GitHub.")
+        else:
+            print("🟡 No se encontraron archivos encriptados para agregar.")
+
     except subprocess.CalledProcessError as e:
         print(f"❌ Error al ejecutar comandos Git: {e}")
-
 
 def borrar_archivo(nombre_archivo):
     ruta_archivo = os.path.join(RUTA_ORIGEN, nombre_archivo)
@@ -89,7 +93,6 @@ def borrar_archivo(nombre_archivo):
         print(f"✅ Archivo {nombre_archivo} eliminado de GitHub.")
     else:
         print(f"❌ El archivo {nombre_archivo} no existe en la carpeta local.")
-
 
 def menu():
     print("Seleccione una opción:")

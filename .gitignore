@@ -1,12 +1,16 @@
-# Ignorar todo excepto /p-coding/
+# Ignorar todo
 *
+
+# No ignorar la carpeta p-coding
 !/p-coding/
+
+# No ignorar archivos en p-coding
+!/p-coding/*
+
+# No ignorar el archivo git.py
 !/git.py
 
-# Si querés permitir una carpeta específica:
-!/.gitignore
-
-# Evitar subir archivos temporales o de sistema
+# Evitar archivos temporales y de sistema
 *.log
 *.tmp
 .DS_Store
