@@ -1,9 +1,16 @@
 [
     {
+        "game_name": "Code Game",
+        "game_icon": "https://i.ibb.co/1JQrb1Gd/micine-act.png",
+        "game_url": "http://games.e-droid.net/en/zero-collsion-appcreator24/index.html?nocache=true&gameid=62",
+        "game_ads": true,
+        "game_code": null
+    },
+    {
         "game_name": "Zero Collision",
         "game_icon": "https://imgs1.e-droid.net/srv/imgs/seccs/23480080_ico.png?v=0",
         "game_url": "http://games.e-droid.net/en/zero-collsion-appcreator24/index.html?nocache=true&gameid=62",
-        "game_ads": true,
+        "game_ads": false,
         "game_code": null
     },
     {
@@ -17,7 +24,7 @@
         "game_name": "Tripoly",
         "game_icon": "https://imgs1.e-droid.net/srv/imgs/seccs/23480083_ico.png?v=0",
         "game_url": "http://games.e-droid.net/en/tripoly-appcreator24/index.html?nocache=true&gameid=36",
-        "game_ads": true,
+        "game_ads": false,
         "game_code": null
     },
     {
