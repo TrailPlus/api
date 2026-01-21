@@ -2,7 +2,7 @@
     {
         "game_name": "Code Game",
         "game_icon": "https://i.ibb.co/1JQrb1Gd/micine-act.png",
-        "game_url": "http://games.e-droid.net/en/zero-collsion-appcreator24/index.html?nocache=true&gameid=62",
+        "game_url": "https://raw.githubusercontent.com/TrailPlus/api/refs/heads/main/others/game_code.json",
         "game_ads": true,
         "game_code": null
     },
