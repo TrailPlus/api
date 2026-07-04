@@ -1,0 +1,52 @@
+{
+  "seasons": [
+    {
+      "season_number": 1,
+      "name": "Temporada 1",
+      "poster": "https://media.themoviedb.org/t/p/w1066_and_h600_face/tFOEA7wikM23DXjV9iv3LC76y2v.jpg",
+      "episodes": [
+        {
+          "episode_number": 1,
+          "title": "Winter Is Coming",
+          "sources": [
+            {
+              "type": "direct",
+              "url": "https://cdn.midominio.com/video/master.m3u8"
+            },
+            {
+              "type": "web",
+              "url": "https://voe.sx/e/xxxxxx"
+            }
+          ]
+        },
+        {
+          "episode_number": 2,
+          "title": "The Kingsroad",
+          "sources": [
+            {
+              "type": "direct",
+              "url": "https://cdn.midominio.com/s01e02/master.m3u8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "name": "Temporada 2",
+      "poster": "https://media.themoviedb.org/t/p/w1066_and_h600_face/tFOEA7wikM23DXjV9iv3LC76y2v.jpg",
+      "episodes": [
+        {
+          "episode_number": 1,
+          "title": "The North Remembers",
+          "sources": [
+            {
+              "type": "direct",
+              "url": "https://cdn.midominio.com/s02e01/master.m3u8"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
