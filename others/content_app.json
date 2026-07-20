@@ -1,0 +1,47 @@
+{
+  "catalog": [
+    {
+      "list_name": "Destacadas",
+      "list_id": 1,
+      "list_type": "slider"
+    },
+    {
+      "list_name": "Acción",
+      "list_id": 28,
+      "list_type": "content"
+    },
+    {
+      "list_name": "Comedia",
+      "list_id": 35,
+      "list_type": "content"
+    },
+    {
+      "list_name": "Series Populares",
+      "list_id": 1001,
+      "list_type": "content"
+    },
+    {
+      "list_name": "Series de Acción",
+      "list_id": 1002,
+      "list_type": "content"
+    }
+  ],
+
+  "animes": [
+    {
+      "list_name": "Destacados",
+      "list_id": 2001,
+      "list_type": "slider"
+    },
+    {
+      "list_name": "Shonen",
+      "list_id": 2002,
+      "list_type": "content"
+    },
+    {
+      "list_name": "Isekai",
+      "list_id": 2003,
+      "list_type": "content"
+    }
+  ]
+}
