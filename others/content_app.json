@@ -30,17 +30,17 @@
   "animes": [
     {
       "list_name": "Destacados",
-      "list_id": 2001,
+      "list_id": 8673163,
       "list_type": "slider"
     },
     {
-      "list_name": "Shonen",
-      "list_id": 2002,
+      "list_name": "Famosos",
+      "list_id": 8673165,
       "list_type": "content"
     },
     {
-      "list_name": "Isekai",
-      "list_id": 2003,
+      "list_name": "Animes Tv",
+      "list_id": 8673169,
       "list_type": "content"
     }
   ]
