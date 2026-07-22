@@ -2,27 +2,22 @@
   "catalog": [
     {
       "list_name": "Destacadas",
-      "list_id": 1,
+      "list_id": 8540847,
       "list_type": "slider"
     },
     {
       "list_name": "Acción",
-      "list_id": 28,
+      "list_id": 8525944,
       "list_type": "content"
     },
     {
       "list_name": "Comedia",
-      "list_id": 35,
+      "list_id": 8526258,
       "list_type": "content"
     },
     {
       "list_name": "Series Populares",
-      "list_id": 1001,
-      "list_type": "content"
-    },
-    {
-      "list_name": "Series de Acción",
-      "list_id": 1002,
+      "list_id": 8526670,
       "list_type": "content"
     }
   ],
