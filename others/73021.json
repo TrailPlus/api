@@ -10,12 +10,7 @@
           "title": "Winter Is Coming",
           "sources": [
             {
-              "type": "direct",
-              "url": "https://cdn.midominio.com/video/master.m3u8"
-            },
-            {
-              "type": "web",
-              "url": "https://voe.sx/e/xxxxxx"
+              "url": "https://embed69.org/f/tt5363918-1x01/"
             }
           ]
         },
@@ -24,7 +19,6 @@
           "title": "The Kingsroad",
           "sources": [
             {
-              "type": "direct",
               "url": "https://cdn.midominio.com/s01e02/master.m3u8"
             }
           ]
@@ -41,7 +35,6 @@
           "title": "The North Remembers",
           "sources": [
             {
-              "type": "direct",
               "url": "https://cdn.midominio.com/s02e01/master.m3u8"
             }
           ]
