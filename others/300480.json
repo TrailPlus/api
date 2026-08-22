@@ -1,0 +1,119 @@
+{
+    "seasons": [
+        {
+            "season_number": 1,
+            "name": "Temporada 1",
+            "poster": "",
+            "episodes": [
+                {
+                    "episode_number": 1,
+                    "title": "Perdida",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt38264832-1x01/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/gatos-callejeros-de-ricky-gervais/episodio-1x1"
+                        },
+                        {
+                            "url": "https://pp.to/serie/gatos-callejeros-de-ricky-gervais/season/1/episode/1"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/gatos-callejeros-de-ricky-gervais-temporada-1-episodio-1"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 2,
+                    "title": "Follon",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt38264832-1x02/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/gatos-callejeros-de-ricky-gervais/episodio-1x2"
+                        },
+                        {
+                            "url": "https://pp.to/serie/gatos-callejeros-de-ricky-gervais/season/1/episode/2"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/gatos-callejeros-de-ricky-gervais-temporada-1-episodio-2"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 3,
+                    "title": "Adopcion",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt38264832-1x03/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/gatos-callejeros-de-ricky-gervais/episodio-1x3"
+                        },
+                        {
+                            "url": "https://pp.to/serie/gatos-callejeros-de-ricky-gervais/season/1/episode/3"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/gatos-callejeros-de-ricky-gervais-temporada-1-episodio-3"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 4,
+                    "title": "Cita nocturna",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt38264832-1x04/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/gatos-callejeros-de-ricky-gervais/episodio-1x4"
+                        },
+                        {
+                            "url": "https://pp.to/serie/gatos-callejeros-de-ricky-gervais/season/1/episode/4"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/gatos-callejeros-de-ricky-gervais-temporada-1-episodio-4"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 5,
+                    "title": "Mama",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt38264832-1x05/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/gatos-callejeros-de-ricky-gervais/episodio-1x5"
+                        },
+                        {
+                            "url": "https://pp.to/serie/gatos-callejeros-de-ricky-gervais/season/1/episode/5"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/gatos-callejeros-de-ricky-gervais-temporada-1-episodio-5"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 6,
+                    "title": "Casa",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt38264832-1x06/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/gatos-callejeros-de-ricky-gervais/episodio-1x6"
+                        },
+                        {
+                            "url": "https://pp.to/serie/gatos-callejeros-de-ricky-gervais/season/1/episode/6"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/gatos-callejeros-de-ricky-gervais-temporada-1-episodio-6"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
