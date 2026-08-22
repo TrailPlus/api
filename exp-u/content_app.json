@@ -1,0 +1,52 @@
+{
+  "catalog": [
+    {
+      "list_name": "Destacadas",
+      "list_id": 8688091,
+      "list_type": "slider"
+    },
+    {
+      "list_name": "Acción",
+      "list_id": 8688095,
+      "list_type": "content"
+    },
+    {
+      "list_name": "Comedia",
+      "list_id": 8688096,
+      "list_type": "content"
+    },
+    {
+      "list_name": "Animacion",
+      "list_id": 8688097,
+      "list_type": "content"
+    },  
+    {
+      "list_name": "Terror",
+      "list_id": 8688098,
+      "list_type": "content"
+    },     
+    {
+      "list_name": "Series Populares",
+      "list_id": 8688099,
+      "list_type": "content"
+    }
+  ],
+
+  "animes": [
+    {
+      "list_name": "Destacados",
+      "list_id": 8673163,
+      "list_type": "slider"
+    },
+    {
+      "list_name": "Famosos",
+      "list_id": 8673165,
+      "list_type": "content"
+    },
+    {
+      "list_name": "Animes Tv",
+      "list_id": 8673169,
+      "list_type": "content"
+    }
+  ]
+}
