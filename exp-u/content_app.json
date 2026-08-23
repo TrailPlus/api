@@ -5,16 +5,16 @@
       "list_id": 8688091,
       "list_type": "slider"
     },
-    {
-      "list_name": "Acción",
-      "list_id": 8688095,
-      "list_type": "content"
-    },
       {
       "list_name": "Estrenos",
       "list_id": 8688126,
       "list_type": "content"
     },
+    {
+      "list_name": "Acción",
+      "list_id": 8688095,
+      "list_type": "content"
+    },    
     {
       "list_name": "Comedia",
       "list_id": 8688096,
