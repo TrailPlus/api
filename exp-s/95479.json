@@ -1,0 +1,587 @@
+{
+    "seasons": [
+        {
+            "season_number": 1,
+            "name": "Temporada 1",
+            "poster": "",
+            "episodes": [
+                {
+                    "episode_number": 1,
+                    "title": "Capítulo 1",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt12343534-1x01/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/jujutsu-kaisen/episodio-1x1"
+                        },
+                        {
+                            "url": "https://pp.to/anime/jujutsu-kaisen/season/1/episode/01"
+                        },
+                        {
+                            "url": "https://mobi.xyz/episodio/jujutsu-kaisen-temporada-1-episodio-1"
+                        },
+                        {
+                            "url": "https://biz.com/serie/95479/jujutsu-kaisen/temporada/1/episodio/1"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/jujutsu-kaisen-temporada-1-episodio-1"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 2,
+                    "title": "Capítulo 2",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt12343534-1x02/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/jujutsu-kaisen/episodio-1x2"
+                        },
+                        {
+                            "url": "https://pp.to/anime/jujutsu-kaisen/season/1/episode/02"
+                        },
+                        {
+                            "url": "https://mobi.xyz/episodio/jujutsu-kaisen-temporada-1-episodio-2"
+                        },
+                        {
+                            "url": "https://biz.com/serie/95479/jujutsu-kaisen/temporada/1/episodio/2"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/jujutsu-kaisen-temporada-1-episodio-2"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 3,
+                    "title": "Capítulo 3",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt12343534-1x03/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/jujutsu-kaisen/episodio-1x3"
+                        },
+                        {
+                            "url": "https://pp.to/anime/jujutsu-kaisen/season/1/episode/03"
+                        },
+                        {
+                            "url": "https://mobi.xyz/episodio/jujutsu-kaisen-temporada-1-episodio-3"
+                        },
+                        {
+                            "url": "https://biz.com/serie/95479/jujutsu-kaisen/temporada/1/episodio/3"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/jujutsu-kaisen-temporada-1-episodio-3"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 4,
+                    "title": "Capítulo 4",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt12343534-1x04/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/jujutsu-kaisen/episodio-1x4"
+                        },
+                        {
+                            "url": "https://pp.to/anime/jujutsu-kaisen/season/1/episode/04"
+                        },
+                        {
+                            "url": "https://mobi.xyz/episodio/jujutsu-kaisen-temporada-1-episodio-4"
+                        },
+                        {
+                            "url": "https://biz.com/serie/95479/jujutsu-kaisen/temporada/1/episodio/4"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/jujutsu-kaisen-temporada-1-episodio-4"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 5,
+                    "title": "Capítulo 5",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt12343534-1x05/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/jujutsu-kaisen/episodio-1x5"
+                        },
+                        {
+                            "url": "https://pp.to/anime/jujutsu-kaisen/season/1/episode/05"
+                        },
+                        {
+                            "url": "https://mobi.xyz/episodio/jujutsu-kaisen-temporada-1-episodio-5"
+                        },
+                        {
+                            "url": "https://biz.com/serie/95479/jujutsu-kaisen/temporada/1/episodio/5"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/jujutsu-kaisen-temporada-1-episodio-5"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 6,
+                    "title": "Capítulo 6",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt12343534-1x06/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/jujutsu-kaisen/episodio-1x6"
+                        },
+                        {
+                            "url": "https://pp.to/anime/jujutsu-kaisen/season/1/episode/06"
+                        },
+                        {
+                            "url": "https://mobi.xyz/episodio/jujutsu-kaisen-temporada-1-episodio-6"
+                        },
+                        {
+                            "url": "https://biz.com/serie/95479/jujutsu-kaisen/temporada/1/episodio/6"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/jujutsu-kaisen-temporada-1-episodio-6"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 7,
+                    "title": "Capítulo 7",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt12343534-1x07/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/jujutsu-kaisen/episodio-1x7"
+                        },
+                        {
+                            "url": "https://pp.to/anime/jujutsu-kaisen/season/1/episode/07"
+                        },
+                        {
+                            "url": "https://mobi.xyz/episodio/jujutsu-kaisen-temporada-1-episodio-7"
+                        },
+                        {
+                            "url": "https://biz.com/serie/95479/jujutsu-kaisen/temporada/1/episodio/7"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/jujutsu-kaisen-temporada-1-episodio-7"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 8,
+                    "title": "Capítulo 8",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt12343534-1x08/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/jujutsu-kaisen/episodio-1x8"
+                        },
+                        {
+                            "url": "https://pp.to/anime/jujutsu-kaisen/season/1/episode/08"
+                        },
+                        {
+                            "url": "https://mobi.xyz/episodio/jujutsu-kaisen-temporada-1-episodio-8"
+                        },
+                        {
+                            "url": "https://biz.com/serie/95479/jujutsu-kaisen/temporada/1/episodio/8"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/jujutsu-kaisen-temporada-1-episodio-8"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 9,
+                    "title": "Capítulo 9",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt12343534-1x09/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/jujutsu-kaisen/episodio-1x9"
+                        },
+                        {
+                            "url": "https://pp.to/anime/jujutsu-kaisen/season/1/episode/09"
+                        },
+                        {
+                            "url": "https://mobi.xyz/episodio/jujutsu-kaisen-temporada-1-episodio-9"
+                        },
+                        {
+                            "url": "https://biz.com/serie/95479/jujutsu-kaisen/temporada/1/episodio/9"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/jujutsu-kaisen-temporada-1-episodio-9"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 10,
+                    "title": "Capítulo 10",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt12343534-1x10/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/jujutsu-kaisen/episodio-1x10"
+                        },
+                        {
+                            "url": "https://pp.to/anime/jujutsu-kaisen/season/1/episode/10"
+                        },
+                        {
+                            "url": "https://mobi.xyz/episodio/jujutsu-kaisen-temporada-1-episodio-10"
+                        },
+                        {
+                            "url": "https://biz.com/serie/95479/jujutsu-kaisen/temporada/1/episodio/10"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/jujutsu-kaisen-temporada-1-episodio-10"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 11,
+                    "title": "Capítulo 11",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt12343534-1x11/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/jujutsu-kaisen/episodio-1x11"
+                        },
+                        {
+                            "url": "https://pp.to/anime/jujutsu-kaisen/season/1/episode/11"
+                        },
+                        {
+                            "url": "https://mobi.xyz/episodio/jujutsu-kaisen-temporada-1-episodio-11"
+                        },
+                        {
+                            "url": "https://biz.com/serie/95479/jujutsu-kaisen/temporada/1/episodio/11"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/jujutsu-kaisen-temporada-1-episodio-11"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 12,
+                    "title": "Capítulo 12",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt12343534-1x12/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/jujutsu-kaisen/episodio-1x12"
+                        },
+                        {
+                            "url": "https://pp.to/anime/jujutsu-kaisen/season/1/episode/12"
+                        },
+                        {
+                            "url": "https://mobi.xyz/episodio/jujutsu-kaisen-temporada-1-episodio-12"
+                        },
+                        {
+                            "url": "https://biz.com/serie/95479/jujutsu-kaisen/temporada/1/episodio/12"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/jujutsu-kaisen-temporada-1-episodio-12"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 13,
+                    "title": "Capítulo 13",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt12343534-1x13/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/jujutsu-kaisen/episodio-1x13"
+                        },
+                        {
+                            "url": "https://pp.to/anime/jujutsu-kaisen/season/1/episode/13"
+                        },
+                        {
+                            "url": "https://mobi.xyz/episodio/jujutsu-kaisen-temporada-1-episodio-13"
+                        },
+                        {
+                            "url": "https://biz.com/serie/95479/jujutsu-kaisen/temporada/1/episodio/13"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/jujutsu-kaisen-temporada-1-episodio-13"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 14,
+                    "title": "Capítulo 14",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt12343534-1x14/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/jujutsu-kaisen/episodio-1x14"
+                        },
+                        {
+                            "url": "https://pp.to/anime/jujutsu-kaisen/season/1/episode/14"
+                        },
+                        {
+                            "url": "https://mobi.xyz/episodio/jujutsu-kaisen-temporada-1-episodio-14"
+                        },
+                        {
+                            "url": "https://biz.com/serie/95479/jujutsu-kaisen/temporada/1/episodio/14"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/jujutsu-kaisen-temporada-1-episodio-14"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 15,
+                    "title": "Capítulo 15",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt12343534-1x15/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/jujutsu-kaisen/episodio-1x15"
+                        },
+                        {
+                            "url": "https://pp.to/anime/jujutsu-kaisen/season/1/episode/15"
+                        },
+                        {
+                            "url": "https://mobi.xyz/episodio/jujutsu-kaisen-temporada-1-episodio-15"
+                        },
+                        {
+                            "url": "https://biz.com/serie/95479/jujutsu-kaisen/temporada/1/episodio/15"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/jujutsu-kaisen-temporada-1-episodio-15"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 16,
+                    "title": "Capítulo 16",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt12343534-1x16/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/jujutsu-kaisen/episodio-1x16"
+                        },
+                        {
+                            "url": "https://pp.to/anime/jujutsu-kaisen/season/1/episode/16"
+                        },
+                        {
+                            "url": "https://mobi.xyz/episodio/jujutsu-kaisen-temporada-1-episodio-16"
+                        },
+                        {
+                            "url": "https://biz.com/serie/95479/jujutsu-kaisen/temporada/1/episodio/16"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/jujutsu-kaisen-temporada-1-episodio-16"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 17,
+                    "title": "Capítulo 17",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt12343534-1x17/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/jujutsu-kaisen/episodio-1x17"
+                        },
+                        {
+                            "url": "https://pp.to/anime/jujutsu-kaisen/season/1/episode/17"
+                        },
+                        {
+                            "url": "https://mobi.xyz/episodio/jujutsu-kaisen-temporada-1-episodio-17"
+                        },
+                        {
+                            "url": "https://biz.com/serie/95479/jujutsu-kaisen/temporada/1/episodio/17"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/jujutsu-kaisen-temporada-1-episodio-17"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 18,
+                    "title": "Capítulo 18",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt12343534-1x18/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/jujutsu-kaisen/episodio-1x18"
+                        },
+                        {
+                            "url": "https://pp.to/anime/jujutsu-kaisen/season/1/episode/18"
+                        },
+                        {
+                            "url": "https://mobi.xyz/episodio/jujutsu-kaisen-temporada-1-episodio-18"
+                        },
+                        {
+                            "url": "https://biz.com/serie/95479/jujutsu-kaisen/temporada/1/episodio/18"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/jujutsu-kaisen-temporada-1-episodio-18"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 19,
+                    "title": "Capítulo 19",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt12343534-1x19/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/jujutsu-kaisen/episodio-1x19"
+                        },
+                        {
+                            "url": "https://pp.to/anime/jujutsu-kaisen/season/1/episode/19"
+                        },
+                        {
+                            "url": "https://mobi.xyz/episodio/jujutsu-kaisen-temporada-1-episodio-19"
+                        },
+                        {
+                            "url": "https://biz.com/serie/95479/jujutsu-kaisen/temporada/1/episodio/19"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/jujutsu-kaisen-temporada-1-episodio-19"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 20,
+                    "title": "Capítulo 20",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt12343534-1x20/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/jujutsu-kaisen/episodio-1x20"
+                        },
+                        {
+                            "url": "https://pp.to/anime/jujutsu-kaisen/season/1/episode/20"
+                        },
+                        {
+                            "url": "https://mobi.xyz/episodio/jujutsu-kaisen-temporada-1-episodio-20"
+                        },
+                        {
+                            "url": "https://biz.com/serie/95479/jujutsu-kaisen/temporada/1/episodio/20"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/jujutsu-kaisen-temporada-1-episodio-20"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 21,
+                    "title": "Capítulo 21",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt12343534-1x21/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/jujutsu-kaisen/episodio-1x21"
+                        },
+                        {
+                            "url": "https://pp.to/anime/jujutsu-kaisen/season/1/episode/21"
+                        },
+                        {
+                            "url": "https://mobi.xyz/episodio/jujutsu-kaisen-temporada-1-episodio-21"
+                        },
+                        {
+                            "url": "https://biz.com/serie/95479/jujutsu-kaisen/temporada/1/episodio/21"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/jujutsu-kaisen-temporada-1-episodio-21"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 22,
+                    "title": "Capítulo 22",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt12343534-1x22/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/jujutsu-kaisen/episodio-1x22"
+                        },
+                        {
+                            "url": "https://pp.to/anime/jujutsu-kaisen/season/1/episode/22"
+                        },
+                        {
+                            "url": "https://mobi.xyz/episodio/jujutsu-kaisen-temporada-1-episodio-22"
+                        },
+                        {
+                            "url": "https://biz.com/serie/95479/jujutsu-kaisen/temporada/1/episodio/22"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/jujutsu-kaisen-temporada-1-episodio-22"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 23,
+                    "title": "Capítulo 23",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt12343534-1x23/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/jujutsu-kaisen/episodio-1x23"
+                        },
+                        {
+                            "url": "https://pp.to/anime/jujutsu-kaisen/season/1/episode/23"
+                        },
+                        {
+                            "url": "https://mobi.xyz/episodio/jujutsu-kaisen-temporada-1-episodio-23"
+                        },
+                        {
+                            "url": "https://biz.com/serie/95479/jujutsu-kaisen/temporada/1/episodio/23"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/jujutsu-kaisen-temporada-1-episodio-23"
+                        }
+                    ]
+                },
+                {
+                    "episode_number": 24,
+                    "title": "Capítulo 24",
+                    "sources": [
+                        {
+                            "url": "https://e.org/f/tt12343534-1x24/"
+                        },
+                        {
+                            "url": "https://bi.com/serie/jujutsu-kaisen/episodio-1x24"
+                        },
+                        {
+                            "url": "https://pp.to/anime/jujutsu-kaisen/season/1/episode/24"
+                        },
+                        {
+                            "url": "https://mobi.xyz/episodio/jujutsu-kaisen-temporada-1-episodio-24"
+                        },
+                        {
+                            "url": "https://biz.com/serie/95479/jujutsu-kaisen/temporada/1/episodio/24"
+                        },
+                        {
+                            "url": "https://hs2.com/episodio/jujutsu-kaisen-temporada-1-episodio-24"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
